@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="hostel/manahement/system/src/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/hostel/manahement/system/src"/>
+	<classpathentry kind="lib" path="dist/Hostel_Manahement_System.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-beanutils-1.9.3.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-javaflow-1590792.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="dist/lib/ecj-4.6.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/groovy-all-2.4.15.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jasperreports-6.20.6.jar"/>
+	<classpathentry kind="lib" path="dist/lib/mysql-connector-j-9.6.0.jar"/>
+	<classpathentry kind="lib" path="dist/lib/openpdf-1.3.26.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
